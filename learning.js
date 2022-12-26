@@ -23,7 +23,7 @@ export default LearnASL = ({ navigation,route}) =>{
              marginTop:80,
              fontWeight:'bold'
             }}>
-            Send Feebacks
+            Send Feeback
           </Text>
  
         </TouchableOpacity>
